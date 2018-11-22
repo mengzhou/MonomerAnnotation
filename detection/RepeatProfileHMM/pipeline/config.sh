@@ -10,12 +10,9 @@ MUSCLE=
 HMMER=
 # 4. path to bedtools *directory* of binaries
 BEDTOOLS=
-
 # 5. path to RepeatProfileHMM *root* directory
 RPHMM=
-
-# set path to reference genome, must be a single FASTA file
-#REF=/home/rcf-40/mengzhou/panfs/repeats/mm10/RepeatMasker/L1Base/mm10.fa
+# 6. set path to reference genome, must be a single FASTA file
 REF=
 
 # validation of paths. no need to change things below
