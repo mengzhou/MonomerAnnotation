@@ -25,7 +25,7 @@ monomers.
 # Instructions
 1. Make sure all the above dependencies have been installed.
 
-2. Change the variables in `config.sh accordingly to your environment.
+2. Change the variables in `config.sh` accordingly to your environment.
 Note that some variables correspond to *executable programs themselves*,
 but others correspond to *directories* which includes multiple programs.
 Also you need to properly set the path in both `model_construct.sh` and
