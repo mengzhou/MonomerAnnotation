@@ -14,3 +14,7 @@ column, mark the position order of each monomer in a promoter. For example,
 `%2#1` means this monomer is positioned at the 2nd position from the 5'-end
 of the promoter, and at the 1st position from the 3'-end of the promoter.
 The 5th column indicates the subtype ID of each monomer.
+
+# Files for profile-HMM parameters
+The file `profileHMM.tar.gz` includes the parameter files for all three
+types of monomers. These files are trained after the iterative process.
